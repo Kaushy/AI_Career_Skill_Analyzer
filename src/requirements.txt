@@ -1,8 +1,5 @@
 streamlit
-streamlit
 PyPDF2
-spacy
 requests
 spacy
-requests
 beautifulsoup4
