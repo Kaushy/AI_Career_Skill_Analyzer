@@ -12,3 +12,7 @@ This project is to analyze your resume and recommends job roles based on your sk
 ```bash
 pip install -r requirements.txt
 streamlit run src/streamlit_ui.py
+
+
+Direct Link:
+https://skillanalyzer.streamlit.app/
